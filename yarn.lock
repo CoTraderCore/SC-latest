@@ -2765,7 +2765,7 @@ bs58@^3.1.0:
 bs58check@^1.0.8:
   version "1.3.4"
   resolved "https://registry.yarnpkg.com/bs58check/-/bs58check-1.3.4.tgz#c52540073749117714fa042c3047eb8f9151cbf8"
-  integrity sha1-xSVABzdJEXcU+gQsMEfrj5FRy/g=
+  integrity sha512-+cZ/mYuyfHboELKvDTYF6onDT4XEgbM9kBsKW91q2YlyDsGRpgT/O6pU4ws5n+LD38XAiD7LChgB3+NBqMGk6g==
   dependencies:
     bs58 "^3.1.0"
     create-hash "^1.1.0"
@@ -3467,7 +3467,7 @@ compressible@~2.0.13:
 
 compression@^1.5.2:
   version "1.7.2"
-  resolved "http://registry.npmjs.org/compression/-/compression-1.7.2.tgz#aaffbcd6aaf854b44ebb280353d5ad1651f59a69"
+  resolved "https://registry.npmjs.org/compression/-/compression-1.7.2.tgz#aaffbcd6aaf854b44ebb280353d5ad1651f59a69"
   integrity sha1-qv+81qr4VLROuygDU9WtFlH1mmk=
   dependencies:
     accepts "~1.3.4"
@@ -9980,7 +9980,7 @@ once@1.x, once@^1.3.0, once@^1.3.1, once@^1.4.0:
 
 onetime@^1.0.0:
   version "1.1.0"
-  resolved "http://registry.npmjs.org/onetime/-/onetime-1.1.0.tgz#a1f7838f8314c516f05ecefcbc4ccfe04b4ed789"
+  resolved "https://registry.npmjs.org/onetime/-/onetime-1.1.0.tgz#a1f7838f8314c516f05ecefcbc4ccfe04b4ed789"
   integrity sha1-ofeDj4MUxRbwXs78vEzP4EtO14k=
 
 onetime@^2.0.0:
